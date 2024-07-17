@@ -1,0 +1,9 @@
+description: |
+    JUnit Jupiter project with some simple operations.
+    Main branch to use to test AUTOM/DEVOPS.
+    Without display name and surefire extensions.
+
+tags:
+- junit_jupiter
+- headless
+- no_parameters
